@@ -1,0 +1,21 @@
+Dando funciones.
+
+Cuando la funcion tiene parametros:
+
+El parametro en la contrucción de la función, es el que utilizamos para inicializar el parametro
+, por ejemplo, nombre, fecha, numero, etc. Son el place holder, que indica que esa funcion tomará datos 
+por parametro, y define el tipo de dato que aceptara por parametro. Se llama parametro FORMAL.
+
+Los parametros que le pasamos a las funciones durante la ejecución del programa al llamar a las funciones,
+, por ejemplo: Maria, 21-9-2020, 67, etc... Son los datos que le pasamos como parametros a la función
+cuando la llamamos durante la ejecución del programa. Se llaman parametros ACTUALES.
+
+Cuando se dice que una función es de tipo Double, o de tipo String, es porque devuelven un valor de ese tipo.
+
+
+Las variables declaradas dentro de una función, son variables locales a esa fucnción, por lo que puedes tener
+funciones distintas con variables internas llamadas de la misma forma.
+
+PASAR FUNCIONES COMO PARAMETROS A OTRAS FUNCIONES.
+
+Ejemplo: Math.trunc(Math.random() * 49).toFixed(2)

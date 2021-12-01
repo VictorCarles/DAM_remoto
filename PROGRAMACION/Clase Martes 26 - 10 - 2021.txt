@@ -1,0 +1,7 @@
+Explicación de los arrays.
+
+Ha explicado el otro tipo de for() que existen:
+
+for (let i of array){
+
+}

@@ -1,0 +1,9 @@
+if (!(iva == 16 || iva == 21)) datosValidos = false;
+
+si ( NO se cumple esta (condicion)) datosValidos será = a false;
+
+https://www.youtube.com/watch?v=_fhDVVfELsM
+https://www.youtube.com/watch?v=BsjJ5AAKGP0
+https://www.youtube.com/watch?v=hiOjK992bPU
+https://www.youtube.com/watch?v=lXDHc_PKtx0
+https://www.youtube.com/watch?v=W65JhGY-z6Y

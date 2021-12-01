@@ -1,0 +1,6 @@
+Operadores aritmeticos y relacionales
+Ecuacion de segundo grado
+x1 = (-b + Math.sqrt( b**2 - 4 * a * c)) / ( 2 * a );
+
+Para instalar el readline sync, en la consolar del Visual Studio Code. npm install readline-sync
+

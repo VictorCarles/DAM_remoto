@@ -1,0 +1,44 @@
+Clase del Martes, 14 / 09 / 2021.
+
+comando para indentar el codigo:
+Ctrl + Alt +F
+
+Formas de nombrar los archivos:
+ejercicioJS
+o
+ejercicio_js
+
+cd ejercicio_js
+
+node --version
+
+----------------------------------------
+^ esto se llama circunflejo.
+
+Math.trunc -> trunca los decimales, al número de decimales deseado
+Math.round -> apróxima el número al entero más cercano
+
+--------------
+Hemos instalardo la extension Code Runner en el visual studio code
+También instalamos Bookmarks, la cual hace lo que dice. Es una pasada.
+- Spnaish Laguage: para tener toda la interfaz en español
+- Ayu (temas de colores)
+
+Ctrl + Mayusc (o shift) + T = Para cambiar el tema de color
+
+- Copilot (extensión aún en beta de Microsoft que por IA, traduce lenguaje natural a comandos de codigo)
+
+Ice Cream Rolls
+https://www.youtube.com/watch?v=U2L2GG6B8eo
+https://www.youtube.com/watch?v=3UfgnSqFGcA
+https://www.youtube.com/watch?v=dMfPYwLD7Vs
+https://www.youtube.com/watch?v=KtZHoD561vY
+https://www.youtube.com/watch?v=_7jUA-Gqp4M
+https://www.youtube.com/watch?v=_7jUA-Gqp4M
+https://www.youtube.com/watch?v=lanEUaaJgz8
+https://www.youtube.com/watch?v=pj8osUJMmoY
+https://www.youtube.com/watch?v=YKSNBIlM_bY
+https://www.youtube.com/watch?v=ACMA_-FtZ0Q
+
+
+

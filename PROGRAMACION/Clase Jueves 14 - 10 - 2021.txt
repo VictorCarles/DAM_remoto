@@ -1,0 +1,9 @@
+Corrección y vista de suoluciones de la AEV1.
+
+Introducción al Tema 6, las funciones, y explicación de las diferencias
+entre Programación Secuencial ( a base de instrucciones), y
+Programación Modular (a base de funciones).
+
+Otro tipo, y la evolución natural de estos dos tipos de programacion es 
+la Programación Orientada a Objetos (POO).
+

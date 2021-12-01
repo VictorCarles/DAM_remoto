@@ -1,0 +1,3 @@
+Hemos empezado la AP1.
+Truquito para sacar el número entero: if(math.trunc(num) == num)
+if (num%1==0)

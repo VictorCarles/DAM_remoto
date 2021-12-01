@@ -1,0 +1,16 @@
+Operadores aritmeticos y relacionales
+Ecuacion de segundo grado
+x1 = (-b + Math.sqrt( b**2 - 4 * a * c)) / ( 2 * a );
+
+Estructuras 
+ALTERNATIVAS
+o
+CONDICIONALES
+|
+---> Simples
+|
+|
+---> Dobles
+|
+|
+---> Múltiples

@@ -1,0 +1,17 @@
+Seguimos practicando con las Repetitivas.
+
+También ha explicado que podemos utilizar el readlineSync.keyInPause(); para pausar
+el programa durante la ejecución requiriendo que se pulse alguna tecla para continuar
+con la ejecución del código.
+
+Estamos realizando el programa de calcular las tablas de multiplicar.
+Luego lo mismo pero pidiendole por teclado que nos diga de que número queremos la tabla de multiplicar.
+
+
+
+Funcion que utilizar en la AP2, en el ejercicio de la lotería.
+Math.Random(); // Para calcular un número aleatorio.
+// Recuerda que el número que devuelve está entre 0 y 1 (en JavaScritp, en C# funciona distinto con parametros)
+
+Recuerda también utilizar el numero.toFixed(?);
+Number.MAX_VALUE

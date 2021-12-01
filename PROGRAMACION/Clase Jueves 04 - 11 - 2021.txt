@@ -1,0 +1,28 @@
+Explicación sobre como funciona el JSDoc para la documentación del codigo.
+
+Para instalarla librería del jsdoc, en la consola tenemos que escribir: npm install -g jsdoc
+
+Puedes crear archivos package.json, donde meter funciones de otros modulos para poder
+importarlas en los modulos donde las necesitemos.
+Para señalar que una función puede ser exportada, pondremos 'export', delante de su constructor 
+en el archivo/modulo en la cual la hemos creado.
+
+Luego para importarla en otro modulo, escribimos import {
+
+
+
+/////////////////////////////////////////
+
+Ejercicio 8 de la AP4, podems usar splice y reverse.
+O podemos simplemente un for que compare el mismo array, comparando cada posicion con la suya 
+opuesta en el array, ejemplo:
+
+let ultimo = vector.length - 1;
+vector [0] == vector[ultimo]
+vector [1] == vector[ultimo-1]
+vector [2] == vecror[ultimo-2]
+vector [3] == vector[ultimo-3]
+
+Despues de cada comparación la hacemos en la condición de un if,
+en caso de que no se cumpla, terminarmos el bucle, porque ya no sería 
+capicua

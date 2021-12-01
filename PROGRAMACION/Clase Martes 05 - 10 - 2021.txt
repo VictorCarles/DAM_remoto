@@ -1,0 +1,12 @@
+Para el ejercicio de la lotería:
+
+// esto ponerlo dentro de un for
+numLoteria = Math.random();
+numLoteria = numLoteria * 49;
+
+aparte de esto hay que añadir el numLoteria = Math.trunc(numLoteria) +1;
+
+// Todo lo anterior se puede resumir en:
+// numLoteria = Marth.trunc(Math.random()*49) + 1;
+// esto también tendría que ir dentro del bucle for.
+

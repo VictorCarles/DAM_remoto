@@ -1,0 +1,24 @@
+1. pwd
+/home/victorcd
+mkdir T2L2
+
+2. cd ./T2L2
+
+3. nano demo.txt
+
+4. cat demo.txt | grep "esta"
+
+5. cat demo.txt | grep -i "línia"
+
+6. mkdir prova
+   cp ./demo.txt ./prova/
+   cp ./demo.txt ./demo2.txt
+   grep -r "línia"
+
+7. grep -e 'línia' * 'blanc'
+
+8. 
+
+9. grep -rc "línia"
+
+10. grep -in -r "línia"

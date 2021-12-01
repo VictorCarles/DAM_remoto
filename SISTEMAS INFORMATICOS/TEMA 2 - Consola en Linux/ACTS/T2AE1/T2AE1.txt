@@ -1,0 +1,23 @@
+1.
+./procesar 1 | grep -e "EDIFICIO" -e "SEMANAS" -B1 -A7 > file1.txt
+
+
+2.
+Orde per a crear el fitxer a.txt:
+cat file1.txt | grep "EDIFICIO A" -A7 | grep -v "^\*" > a.txt
+
+Orde per a crear el fitxer d.txt:
+cat file1.txt | grep "EDIFICIO D" -A7 | grep -v "^\*" > d.txt
+
+Orde per a crear el fitxer s.txt:
+cat file1.txt | grep "SEMANAS" -A7 | grep -v "^\*" > s.txt
+
+
+3.
+cat procesar2.txt | grep "TOTAL" > file2.txt
+./procesar 1 | grep "L" | grep -v "\*" >> file2.txt
+cat procesar2.txt | grep "sem." >> file2.txt
+
+
+4.
+cat file2.txt | grep "sem." | grep "1.0" | awk '{print $1,$2,$4}' > res1.txt

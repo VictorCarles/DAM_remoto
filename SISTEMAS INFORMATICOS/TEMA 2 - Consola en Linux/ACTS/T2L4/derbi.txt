@@ -1,0 +1,10 @@
+Valencia C.F.,Levante U.D.,empate,10,25
+Valencia C.F.,Levante U.D.,Valencia,15,35
+Valencia C.F.,Levante U.D.,Levante,15,27
+Valencia C.F.,Levante U.D.,Levante,18,32
+Valencia C.F.,Levante U.D.,empate,10,39
+Valencia C.F.,Levante U.D.,empate,10,14
+Valencia C.F.,Levante U.D.,Levante,18,37
+Valencia C.F.,Levante U.D.,Levante,18,32
+Valencia C.F.,Levante U.D.,Valencia,15,12
+

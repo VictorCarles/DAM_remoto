@@ -1,0 +1,9 @@
+Diccionario de datos:
+Es un documento de texto que se crea la base de datos a partir de nuestros diseños relacionales.
+Ahí guardamos el dominio de cada dato. Es decir que tipo de datos se almacena en cada atributo.
+
+
+Notación de distintos tipos de atributos:
+Opcional: linea que lo conecta a la entidad es discontinua
+Derivado: el borde del ovalo del atributo es discontinua
+Compuestos y Multivaluados: la linea del ovalo es doble

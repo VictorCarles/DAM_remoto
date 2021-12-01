@@ -1,0 +1,2 @@
+LOAD DATA INFILE 'carga2.txt' INTO TABLE clientes
+LINES TERMINATED BY '\n';

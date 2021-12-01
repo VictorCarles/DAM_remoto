@@ -1,0 +1,2 @@
+CONSTRAIN = Una especie de restriccion
+Indexar los campos en la tabla de la base de datos agilizará las busquedas.

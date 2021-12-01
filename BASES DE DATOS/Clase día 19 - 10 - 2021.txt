@@ -1,0 +1,6 @@
+Sobre las soluciones para el ejemplo de generalizacion-especialización
+en el modelo relacional:
+
+La version numero dos, de la relaciones entre profesores, centros, y privado publico, 
+la version 2 no podría ser parcial, solo total. Ya que tiene una tabla distinta para priv y otra para publico,
+con lo que tengdrá que pertener a una de las dos tablas si o sí.

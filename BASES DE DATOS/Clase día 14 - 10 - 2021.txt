@@ -1,0 +1,6 @@
+Hoy ha explicado más pasos de como convertir los diagramas de entidad relacion ER al Modelo Relacional.
+
+Explicación de las Foreign Keys.
+
+IMPORTANTE: Pasar a limpio los esquemas y apuntes tomados en la libreta.
+	

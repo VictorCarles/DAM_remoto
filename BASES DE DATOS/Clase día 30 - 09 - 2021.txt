@@ -1,0 +1,11 @@
+Hemos dado la Generalización/Especialización. Lo de Total/Parcial, Exclusiva/Inclusiva (solapada)
+
+Total: Cada ocurrencia de la Entidad superclase, tiene que ser si o si, 
+       parte de una de las entidades subclases.
+Parcial: Un ocurrencia de la entidad superclase, puede pertenecer o no a una de las subclases.
+
+
+Exclusiva: Una ocurrencia de la entidad superclase puede pertenecer SOLO a UNA de las subclases.
+Inclusiva: Una ocurrencia de la entidad superclase puede pertener a UNA O VARIAS de las
+	   subclases al mismo tiempo.
+

@@ -1,0 +1,6 @@
+Atributos para ejercicio ER Biblioubus:
+- Libros: titulo, autor, isb, numero ejemplares
+- Socios: nombre, codigo, telefono,
+- Temas: nombre
+
+https://www.youtube.com/watch?v=0y_3Ax7XabI

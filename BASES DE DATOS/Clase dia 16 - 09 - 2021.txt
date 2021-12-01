@@ -1,0 +1,3 @@
+
+Participaciones: MAX - (N M)- 1
+		 MIN = 0    1

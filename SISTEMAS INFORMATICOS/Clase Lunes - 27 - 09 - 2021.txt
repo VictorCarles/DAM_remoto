@@ -1,0 +1,13 @@
+Estamos viendo como crear nuevas ramas en un repositorio, trabajar en ellas,
+hacer merge a la rama master, etc.
+
+Cuando en sourcetree creamos solo una rama nueva a parte de la master, no lo va a
+representar de forma visualc como una linea/caminito de distinto color. 
+Simplemente nos lo va a indicar en etiquetas, o labels.
+
+Si creo una tercera rama distinta, donde realizo commits, y no hago merge a master,
+si que me lo representará como una caminito extra.
+
+IMPORTANT.
+Si en algún momento el gitignore no me funciona con sourcetree es con un problema de windows,
+en ese caso hacerlo manualmente, desde gitbash.

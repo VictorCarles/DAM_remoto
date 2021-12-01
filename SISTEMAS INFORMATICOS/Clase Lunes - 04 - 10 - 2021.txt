@@ -1,0 +1,14 @@
+Importante, para tema de ramas en git/sourcetree:
+
+A la hora de hacer merge de una rama a master, primero hacer checkout a Master, y luego hacer merge
+con la rama que quiereshacer merge.
+
+Para crear la rama, estando en master, hacemos branch, luego hacemos checkout a branch y hacemos 
+un commit en dicha rama.
+
+Si te da conflicto a la hora de hacer un merge, de una rama a master después de haber modificado
+un archivo que ya habias modificado en una version más nueva,o lo que sea, el conflicto o lo que da problemas
+estará más o menos reflejado en el area de información del "staging area".
+
+
+Practicar estos ejercicios con SourceTree y Gitbash, ambas por duplicado.

@@ -1,0 +1,18 @@
+paso uno. incializar el repositorio
+Gitbash: git init
+Los comandos de Ubuntu/Linux funcionan en GitBash.
+
+Se puede utilizar, SourceTree, Git Bash, o GitKraken, pero como el año pasado mejor no dejar de utilizar 
+niguno de los dos.
+
+
+git status para comprobar si hay cambio sin comitear
+git log para saber la fecha y el comentario de los commits
+git checkout  para tornar a una versión anteriormente commiteada
+
+email GitKraken: vicadi@floridauniversitaria.es
+pass: 789jklpas8,C
+
+staging area: el repositorio como tal, previo a commitear (?
+para añadir al staging area, git add
+

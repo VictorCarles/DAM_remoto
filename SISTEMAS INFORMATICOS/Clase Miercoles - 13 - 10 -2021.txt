@@ -1,0 +1,21 @@
+EXPLICANDO COMANDOS DE SHELL DE LINUS
+
+Uno de los comando es el " sed ".
+
+Se puede utilizar para muchas cosas entre ella substituir.
+
+sed 's/lo-que-quiero-substituir/el-substituto/2' ejemlplo.txt
+
+sed (substituye), s (en todas las lineas), Vicente por Antonio / 2 (en la segunda aparición de Vicente dentro de cada linea) ejemplo.txt (dentro de ejemplo.txt)
+
+Actividad T2L3:
+Cuando pasamos o descargamos el archivo de users.txt a la maquina virtual, y lo abres con el terminal,
+no te muestra todo su contenido.
+Abrirlo con la interfaz gráfica, copiarlo, y crear un archivo nuevo con nano, y pegarle el contenido.
+Y ahora deberia mostrartelo entero por terminal.
+
+Para el comando tail, tail -n11 users.txt significaria "muestra las ultimas 11"
+tail -n +11 users.txt significa "muestra desde la 11 hasta el final"
+
+La opcion -b del comando cut, si le pongo cut users.txt -b 1, me va a mostrar el primer caracter de
+cada linea. Si pongo -b 2, el segundo caracter de cada linea, etc.

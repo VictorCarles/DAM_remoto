@@ -1,0 +1,6 @@
+Hacemos actividades con el comando grep, viendo el video de vimeo.
+ con touch puedes crear un fichero en blanco
+
+https://docs.oracle.com/cd/E19620-01/805-7644/6j76klop3/index.html
+https://vimeo.com/149761363
+https://docs.oracle.com/cd/E19620-01/805-7644/6j76klop3/index.html

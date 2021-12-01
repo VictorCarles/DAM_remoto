@@ -1,0 +1,13 @@
+Explicación de conectar source tree a GitHub.
+
+Fetch y Merge (como si fuera pull) siempre antes de hacer Push.
+Es decir comprobar siempre que tienes algo nuevo en el repositorio remoto.
+
+Datos ccuenta GitHub:
+- usuario: VictorCarles
+- correo: vicadi@floridauniversitaria.es
+- contraseña: 987pas8,C
+
+Si creas el repo en Github, y lo inicializas (.git, readme.txt, etc),
+cuando te creas el repositorio local, no lo cargas al remoto, si no que lo clonas
+DESDE el remoto

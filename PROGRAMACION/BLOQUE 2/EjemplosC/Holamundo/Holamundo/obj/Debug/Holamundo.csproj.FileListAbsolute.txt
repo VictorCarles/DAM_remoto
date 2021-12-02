@@ -1,0 +1,7 @@
+C:\Users\vicadi\Desktop\DAM 1o\PROGRAMACION\BLOQUE 2\EjemplosC\Holamundo\Holamundo\bin\Debug\Holamundo.exe.config
+C:\Users\vicadi\Desktop\DAM 1o\PROGRAMACION\BLOQUE 2\EjemplosC\Holamundo\Holamundo\bin\Debug\Holamundo.exe
+C:\Users\vicadi\Desktop\DAM 1o\PROGRAMACION\BLOQUE 2\EjemplosC\Holamundo\Holamundo\bin\Debug\Holamundo.pdb
+C:\Users\vicadi\Desktop\DAM 1o\PROGRAMACION\BLOQUE 2\EjemplosC\Holamundo\Holamundo\obj\Debug\Holamundo.csprojAssemblyReference.cache
+C:\Users\vicadi\Desktop\DAM 1o\PROGRAMACION\BLOQUE 2\EjemplosC\Holamundo\Holamundo\obj\Debug\Holamundo.csproj.CoreCompileInputs.cache
+C:\Users\vicadi\Desktop\DAM 1o\PROGRAMACION\BLOQUE 2\EjemplosC\Holamundo\Holamundo\obj\Debug\Holamundo.exe
+C:\Users\vicadi\Desktop\DAM 1o\PROGRAMACION\BLOQUE 2\EjemplosC\Holamundo\Holamundo\obj\Debug\Holamundo.pdb

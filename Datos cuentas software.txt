@@ -1,0 +1,38 @@
+CUENTA CORREO GMIAL PARA CLASE: (Classroom, Drive del PI, etcetera)
+usuario: vicadi.flo@gmail.com
+pas: 7BSHErgjvNYeEj5
+
+PAS opcional: 456pas5,B
+num tel: 722278174
+recuperación: victorcarles98@gmail.com
+
+CANVA
+correo: vicadi.flo@gmail.com
+pass: 456pas5,B
+
+
+
+
+CUENTA DE TRELLO
+email: vicadi@floridauniversitaria.es
+
+nombre: Victor Carles
+
+pass: 321pas234,A
+
+
+CUENTA DE GITHUB
+VictorCarles
+vicadi@floridauniversitaria.es
+987pas8,C
+
+
+CUENTA DE BITBUCKET:
+vicadi@floridauniversitaria.es
+Victor Carles Diaz
+987pas8,C
+
+
+GIT
+Los comandos de git siempre empiezan por git
+Instalar GitBash, y sourcetree

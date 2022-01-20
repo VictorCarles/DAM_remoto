@@ -1,0 +1,3 @@
+Para saber si un campo de una tabla tiene un indice,
+se puede mirar en phpMyAdmin > la tabla en cuestion > estructura,
+o en el HeidiSQL, abriendo la tabla en si.

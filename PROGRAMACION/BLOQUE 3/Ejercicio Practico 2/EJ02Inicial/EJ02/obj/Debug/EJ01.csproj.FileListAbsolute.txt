@@ -1,0 +1,21 @@
+C:\Users\Salva\Desktop\Desarrollos\EJ01\bin\Debug\EJ01.exe.config
+C:\Users\Salva\Desktop\Desarrollos\EJ01\bin\Debug\EJ01.exe
+C:\Users\Salva\Desktop\Desarrollos\EJ01\bin\Debug\EJ01.pdb
+C:\Users\Salva\Desktop\Desarrollos\EJ01\obj\Debug\EJ01.csprojAssemblyReference.cache
+C:\Users\Salva\Desktop\Desarrollos\EJ01\obj\Debug\EJ01.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\Desarrollos\EJ01\obj\Debug\EJ01.exe
+C:\Users\Salva\Desktop\Desarrollos\EJ01\obj\Debug\EJ01.pdb
+L:\04. PROG - DAM 18-19\Bloque3. Programación orientada a Objetos (POO)\02. Ejercicio práctico2\EJ02 - proyecto de inicio\bin\Debug\EJ01.exe.config
+L:\04. PROG - DAM 18-19\Bloque3. Programación orientada a Objetos (POO)\02. Ejercicio práctico2\EJ02 - proyecto de inicio\bin\Debug\EJ01.exe
+L:\04. PROG - DAM 18-19\Bloque3. Programación orientada a Objetos (POO)\02. Ejercicio práctico2\EJ02 - proyecto de inicio\bin\Debug\EJ01.pdb
+L:\04. PROG - DAM 18-19\Bloque3. Programación orientada a Objetos (POO)\02. Ejercicio práctico2\EJ02 - proyecto de inicio\obj\Debug\EJ01.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque3. Programación orientada a Objetos (POO)\02. Ejercicio práctico2\EJ02 - proyecto de inicio\obj\Debug\EJ01.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque3. Programación orientada a Objetos (POO)\02. Ejercicio práctico2\EJ02 - proyecto de inicio\obj\Debug\EJ01.exe
+L:\04. PROG - DAM 18-19\Bloque3. Programación orientada a Objetos (POO)\02. Ejercicio práctico2\EJ02 - proyecto de inicio\obj\Debug\EJ01.pdb
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\Ejercicio Practico 2\EJ02Inicial\EJ02\bin\Debug\EJ01.exe.config
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\Ejercicio Practico 2\EJ02Inicial\EJ02\bin\Debug\EJ01.exe
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\Ejercicio Practico 2\EJ02Inicial\EJ02\bin\Debug\EJ01.pdb
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\Ejercicio Practico 2\EJ02Inicial\EJ02\obj\Debug\EJ01.csprojAssemblyReference.cache
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\Ejercicio Practico 2\EJ02Inicial\EJ02\obj\Debug\EJ01.csproj.CoreCompileInputs.cache
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\Ejercicio Practico 2\EJ02Inicial\EJ02\obj\Debug\EJ01.exe
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\Ejercicio Practico 2\EJ02Inicial\EJ02\obj\Debug\EJ01.pdb

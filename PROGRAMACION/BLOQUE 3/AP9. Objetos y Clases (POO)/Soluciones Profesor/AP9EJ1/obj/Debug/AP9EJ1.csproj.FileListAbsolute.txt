@@ -1,0 +1,7 @@
+C:\Users\Salva\Desktop\Desarrollos\AP9EJ1\bin\Debug\AP9EJ1.exe.config
+C:\Users\Salva\Desktop\Desarrollos\AP9EJ1\bin\Debug\AP9EJ1.exe
+C:\Users\Salva\Desktop\Desarrollos\AP9EJ1\bin\Debug\AP9EJ1.pdb
+C:\Users\Salva\Desktop\Desarrollos\AP9EJ1\obj\Debug\AP9EJ1.csprojAssemblyReference.cache
+C:\Users\Salva\Desktop\Desarrollos\AP9EJ1\obj\Debug\AP9EJ1.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\Desarrollos\AP9EJ1\obj\Debug\AP9EJ1.exe
+C:\Users\Salva\Desktop\Desarrollos\AP9EJ1\obj\Debug\AP9EJ1.pdb

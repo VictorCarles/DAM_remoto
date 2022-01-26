@@ -1,0 +1,16 @@
+1.
+cat script1.sh
+
+#!/bin/bash
+echo
+read -p "Introduce un valor" v1
+read -p "Introduce otro valor" v2
+echo "Acabas de pasar los valores $v1 y $v2"
+
+if [ $v1 -eq $v2 ]
+then
+	echo "El valor $v1 y $v2 son iguales"
+else
+
+
+

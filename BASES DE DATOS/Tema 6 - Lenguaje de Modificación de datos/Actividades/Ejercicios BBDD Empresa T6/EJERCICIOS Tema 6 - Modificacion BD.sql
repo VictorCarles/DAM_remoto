@@ -1,4 +1,4 @@
-/* */
+/*Alumnos: Alvaro Perez Alborch, Victor Carles Díaz*/
 
 -- EJERCICIO 1.
 USE empresa;
@@ -32,7 +32,7 @@ UPDATE repventas SET Cuota=10000 WHERE Cuota=NULL;
 
 
 -- EJERCICIO 6.
-USE educa;
-DESC curso;
-UPDATE curso SET Cred = 3 AND Ctarifa= Ctarifa + Ctarifa*0.10 AND Cdescp='EL LENGUAJE DB2' WHERE Cno LIKE 'C3%';
+UPDATE curso SET cred=3 , ctarifa=ctarifa+ctarifa*0.10 , cdescp='EL LENGUAJE DB2' WHERE cno LIKE 'C3%';
 
+UPDATE curso SET Ctarifa=175 WHERE Cno='C66';
+UPDATE personal SET Esueldo=4000 WHERE Dept='MATH';

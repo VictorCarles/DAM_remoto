@@ -26,6 +26,10 @@ VictorCarles
 vicadi@floridauniversitaria.es
 987pas8,C
 
+num telefono: 722278174
+Authentication/verification app: Authy
+Authy gmail: dicarvi98@gmail.com
+
 
 CUENTA DE BITBUCKET:
 vicadi@floridauniversitaria.es

@@ -1,0 +1,7 @@
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\AP10. Relaciones entre clases\AP10\AP10\bin\Debug\AP10.exe.config
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\AP10. Relaciones entre clases\AP10\AP10\bin\Debug\AP10.exe
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\AP10. Relaciones entre clases\AP10\AP10\bin\Debug\AP10.pdb
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\AP10. Relaciones entre clases\AP10\AP10\obj\Debug\AP10.csprojAssemblyReference.cache
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\AP10. Relaciones entre clases\AP10\AP10\obj\Debug\AP10.csproj.CoreCompileInputs.cache
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\AP10. Relaciones entre clases\AP10\AP10\obj\Debug\AP10.exe
+C:\Users\vicadi\Desktop\DAM\PROGRAMACION\BLOQUE 3\AP10. Relaciones entre clases\AP10\AP10\obj\Debug\AP10.pdb

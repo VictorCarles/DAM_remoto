@@ -10,19 +10,24 @@ namespace EJ01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Información del primer socio:\n=============================\n");
             Socio soc1 = new Socio();
 
             soc1.Informa();
             soc1.CalcularIMC();
             soc1.EsMayorDeEdad();
 
+            Console.WriteLine(" ");
             Console.ReadKey();
 
+            Console.WriteLine("Información del segundo socio:\n=============================\n");
             Socio soc2 = new Socio("Rodrigo", 23, "8990651H", 'H', 78.5, 1.7);
+
             soc2.Informa();
             soc2.CalcularIMC();
             soc2.EsMayorDeEdad();
 
+            Console.WriteLine(" ");
             Console.ReadKey();
         }
     }

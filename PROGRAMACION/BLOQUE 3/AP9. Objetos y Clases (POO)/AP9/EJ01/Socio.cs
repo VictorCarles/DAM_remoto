@@ -19,7 +19,7 @@ namespace EJ01
 
         // Constructor que recibe parametros.
         public Socio(string nom, int edad, string nif, char sex, double pes, double alt)
-        {
+        { 
             this.nombre = nom;
             this.edad = edad;
             this.nif = nif;
@@ -41,7 +41,7 @@ namespace EJ01
         
         public string pideInfo(string texto)
         {
-            Console.WriteLine("" + texto);
+            Console.Write("" + texto);
             string temp = Console.ReadLine();
             return temp;
         }
